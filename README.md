@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakith</h1>
-<h3 align="center">Java & Web Dev | Passionate UI design</h3>
+<h3 align="center">Java & Web Dev | Passionate about UI design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakithdinuwara&label=Profile%20views&color=0e75b6&style=flat" alt="sakithdinuwara" /> </p>
 
