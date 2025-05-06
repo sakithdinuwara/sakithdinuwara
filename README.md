@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sakith</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=ffffff&width=370&height=100&lines=Hi+%2C+I'm+Sakith+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
 <h3 align="center">Java & Web Development| Passionate about UI/UX design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakithdinuwara&label=Profile%20views&color=0e75b6&style=flat" alt="sakithdinuwara" /> </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 🌱 I’m currently learning **oop with java**
   
 - 👨‍🎓 I'm undergraduate at **NSBM**
@@ -14,7 +16,7 @@
 
 - ⚡ Fun fact **call me as SDK**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
