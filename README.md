@@ -6,7 +6,7 @@
 ---
 - 🌱 I’m currently learning **oop with java**
   
-- 👨‍🎓 I'm undergraduate at **NSBM university**
+- 👨‍🎓 I'm undergraduate at **NSBM**
 
 - 💬 Ask me about **java**
 
